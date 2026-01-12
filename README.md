@@ -11,7 +11,7 @@
 
 ### ⚡ Powered by Advanced AI Technology
 
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
+[![WhatsApp Channel](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
 [![GitHub](https://img.shields.io/badge/GitHub-GabWT333-black?style=for-the-badge&logo=github)](https://github.com/GabWT333)
 [![Instagram](https://img.shields.io/badge/Instagram-insta__gqbri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/insta_gqbri)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
