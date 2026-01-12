@@ -403,6 +403,6 @@ Este proyecto está liberado bajo licencia [MIT](LICENSE)
 
 📱 **WhatsApp:** +39 333 641 3960
 
-**© 2024 Napoli-bot All Rights Reserved**
+**© 2022 Napoli-bot All Rights Reserved**
 
 </div>
