@@ -100,7 +100,7 @@ yarn install
 yarn start
 ```
 
-> **💡 Nota:** Sostituisci `TUO-USERNAME` con il tuo username GitHub!
+> **💡 Nota:** Sostituisci `Napoli-bot` con il tuo username GitHub!
 
 ---
 
