@@ -92,8 +92,8 @@ pkg install git nodejs ffmpeg imagemagick yarn -y
 
 # Download del bot
 cd ~
-git clone https://github.com/TUO-USERNAME/Gab333.git
-cd Gab333
+git clone https://github.com/Napolo-bot/Napoli-bot.git
+cd Napoli-bot
 
 # Installazione e avvio
 yarn install
@@ -121,7 +121,7 @@ Hai problemi? Ecco come ricevere aiuto:
 1. 📖 Controlla la [Wiki](https://github.com/GabWT333/Gab333/wiki)
 2. 🐛 Apri una [Issue](https://github.com/GabWT333/Gab333/issues)
 3. 💬 Unisciti al nostro [Canale WhatsApp](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
-4. 📱 Contattami su WhatsApp: [+39 350 833 7404](https://wa.me/393508337404)
+4. 📱 Contattami su WhatsApp: [+39 333 641 3960](https://wa.me/393336413960)
 5. 📷 Seguimi su Instagram: [@insta_gqbri](https://instagram.com/insta_gqbri)
 6. 💬 Unisciti al canale Telegram
 7. 🎮 Entra nel server Discord
@@ -187,7 +187,7 @@ Create a personal copy of the bot on your GitHub account:
 1. Go to the [`config.js`](https://github.com/GabWT333/Gab333/blob/master/config.js) file
 2. Click the pencil icon ✏️ to edit
 3. Find the line with the owner number
-4. Insert **your WhatsApp number** (international format: +39 350 833 7404)
+4. Insert **your WhatsApp number** (international format: +39 333 641 3960)
 5. Save changes
 
 <a href="https://github.com/GabWT333/Gab333/blob/master/config.js">
@@ -210,15 +210,15 @@ pkg install git nodejs ffmpeg imagemagick yarn -y
 
 # Download bot
 cd ~
-git clone https://github.com/YOUR-USERNAME/Gab333.git
-cd Gab333
+git clone https://github.com/Napoli-bot/Napoli-bot.git
+cd Napoli-Bot
 
 # Install and start
 yarn install
 yarn start
 ```
 
-> **💡 Note:** Replace `YOUR-USERNAME` with your GitHub username!
+> **💡 Note:** Replace `Napoli-bot` with your GitHub Napoli-bot!
 
 ---
 
@@ -240,7 +240,7 @@ Having problems? Here's how to get help:
 1. 📖 Check the [Wiki](https://github.com/GabWT333/Gab333/wiki)
 2. 🐛 Open an [Issue](https://github.com/GabWT333/Gab333/issues)
 3. 💬 Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
-4. 📱 Contact me on WhatsApp: [+39 350 833 7404](https://wa.me/393508337404)
+4. 📱 Contact me on WhatsApp: [+39 333 641 3970](https://wa.me/393336413960)
 5. 📷 Follow me on Instagram: [@insta_gqbri](https://instagram.com/insta_gqbri)
 6. 💬 Join our Telegram channel
 7. 🎮 Join our Discord server
@@ -306,7 +306,7 @@ Crea una copia personal del bot en tu cuenta de GitHub:
 1. Ve al archivo [`config.js`](https://github.com/GabWT333/Gab333/blob/master/config.js)
 2. Haz clic en el icono del lápiz ✏️ para editar
 3. Encuentra la línea con el número del propietario
-4. Inserta **tu número de WhatsApp** (formato internacional: +39 350 833 7404)
+4. Inserta **tu número de WhatsApp** (formato internacional: +39 333 641 3960)
 5. Guarda los cambios
 
 <a href="https://github.com/GabWT333/Gab333/blob/master/config.js">
@@ -337,7 +337,7 @@ yarn install
 yarn start
 ```
 
-> **💡 Nota:** ¡Reemplaza `TU-USUARIO` con tu nombre de usuario de GitHub!
+> **💡 Nota:** ¡Reemplaza `Napoli-Bot` con tu nombre de usuario de GitHub!
 
 ---
 
@@ -393,7 +393,7 @@ Este proyecto está liberado bajo licencia [MIT](LICENSE)
 
 <div align="center">
 
-### 🌟 Made with ❤️ by GabWT333
+### 🌟 Made with ❤️ by Napoli-Bot
 
 [![GitHub](https://img.shields.io/badge/GitHub-GabWT333-black?style=for-the-badge&logo=github)](https://github.com/GabWT333)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
@@ -403,6 +403,6 @@ Este proyecto está liberado bajo licencia [MIT](LICENSE)
 
 📱 **WhatsApp:** +39 333 641 3960
 
-**© 2024 333-Bot - All Rights Reserved**
+**© 2024 Napoli-bot All Rights Reserved**
 
 </div>
