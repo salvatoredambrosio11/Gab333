@@ -69,7 +69,7 @@ Crea una copia personale del bot sul tuo account GitHub:
 1. Vai al file [`config.js`](https://github.com/GabWT333/Gab333/blob/master/config.js)
 2. Clicca sull'icona della matita ✏️ per modificare
 3. Trova la riga con il numero del proprietario
-4. Inserisci il **tuo numero WhatsApp** (formato internazionale: +39 350 833 7404)
+4. Inserisci il **tuo numero WhatsApp** (formato internazionale: +39 333 641 3960 )
 5. Salva le modifiche
 
 <a href="https://github.com/GabWT333/Gab333/blob/master/config.js">
@@ -239,7 +239,7 @@ Having problems? Here's how to get help:
 
 1. 📖 Check the [Wiki](https://github.com/GabWT333/Gab333/wiki)
 2. 🐛 Open an [Issue](https://github.com/GabWT333/Gab333/issues)
-3. 💬 Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
+3. 💬 Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 4. 📱 Contact me on WhatsApp: [+39 350 833 7404](https://wa.me/393508337404)
 5. 📷 Follow me on Instagram: [@insta_gqbri](https://instagram.com/insta_gqbri)
 6. 💬 Join our Telegram channel
@@ -359,7 +359,7 @@ yarn start
 1. 📖 Consulta la [Wiki](https://github.com/GabWT333/Gab333/wiki)
 2. 🐛 Abre un [Issue](https://github.com/GabWT333/Gab333/issues)
 3. 💬 Únete a nuestro [Canal de WhatsApp](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
-4. 📱 Contáctame en WhatsApp: [+39 350 833 7404](https://wa.me/393508337404)
+4. 📱 Contáctame en WhatsApp: [+39 333 641 3969](https://wa.me/393336413960)
 5. 📷 Sígueme en Instagram: [@insta_gqbri](https://instagram.com/insta_gqbri)
 6. 💬 Únete al canal de Telegram
 7. 🎮 Únete al servidor de Discord
@@ -401,7 +401,7 @@ Este proyecto está liberado bajo licencia [MIT](LICENSE)
 
 **💻 JavaScript | Python Developer**
 
-📱 **WhatsApp:** +39 350 833 7404
+📱 **WhatsApp:** +39 333 641 3960
 
 **© 2024 333-Bot - All Rights Reserved**
 
